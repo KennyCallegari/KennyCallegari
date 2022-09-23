@@ -14,13 +14,24 @@ I'm passionate about coffee and right now I working on an app to find good coffe
 🖥
 I'm working with : 
 👉 Typescript
+
 👉 Redux 
+
 👉 React-Query
+
 👉 Axios
+
 👉 Heroku
+
 👉 React Hooks
+
 👉 Expo
+
 👉 Vuex
+
+See you soon !
+
+Kenny
 
 
 ### FRENCH
@@ -39,13 +50,21 @@ Je suis passionné de **café** et en ce moment je développe une application po
 
 🖥
 Je travaille avec : 
+
 👉 Typescript
+
 👉 Redux 
+
 👉 React-Query
+
 👉 Axios
+
 👉 Heroku
+
 👉 React Hooks
+
 👉 Expo
+
 👉 Vuex
 
 A bientôt !
