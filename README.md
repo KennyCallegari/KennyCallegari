@@ -34,7 +34,7 @@ See you soon !
 Kenny
 
 
-
+\n \n \n
 
 
 ### FRENCH
@@ -44,7 +44,7 @@ Bonjour 👋
 👨‍💻
 Je suis Kenny Callegari, développeur web et mobile.
 
-Je développe en **Javascript** , essentiellement des applications web en **React** / **Vuejs** (2 et 3) / **Node** et des applications mobiles en **React Native** .
+Je développe en **Javascript** , essentiellement des applications web en **React** / **Vuejs** (2 et 3) / **Node.js** et des applications mobiles en **React Native** .
 
 Je suis cependant ouvert à toutes les technologies, je suis d'ailleurs souvent en veille pour en découvrir de nouvelles.
 
