@@ -4,7 +4,7 @@ Hi there 👋
 
 I'm Kenny Callegari, a freelance mobile and web developper.
 
-I work with **Javascript** , mostly in **React** / **Vuejs** (2 et 3) / **Node.js** and in **React Native** for mobile app.
+I work with **Javascript** , mostly in **React** / **Vuejs** (2 and 3) / **Node.js** and in **React Native** for mobile app.
 
 But I'm open to every technologies, right now I'm learning Three.js.
 
