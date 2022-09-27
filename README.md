@@ -4,7 +4,7 @@ Hi there 👋
 
 👨‍💻
 
-I'm Kenny Callegari, a freelance mobile and web developper.
+I'm Kenny Callegari, a freelance mobile and web developer.
 
 I work with **Javascript** , mostly in **React** / **Vuejs** (2 and 3) / **Node.js** and in **React Native** for mobile app.
 
@@ -12,7 +12,7 @@ But I'm open to every technologies, right now I'm learning Three.js.
 
 ☕
 
-I'm passionate about coffee and right now I working on an app to find good coffeeshops close to you !
+I love a good cup of coffee and right now I'm working on an app to find good coffeeshops close to you !
 
 🖥
 
