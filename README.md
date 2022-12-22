@@ -36,7 +36,7 @@ I'm also working with :
 
 See you soon !
 
-Kenny
+Kenny - kenny.callegari@gmail.com
 
 
 \n \n \n
@@ -80,4 +80,4 @@ Je travaille avec :
 
 A bientôt !
 
-Kenny
+Kenny - kenny.callegari@gmail.com
